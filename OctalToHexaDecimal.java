@@ -1,5 +1,5 @@
 /*
- * WAP to convert an Octal into hexa-decimal.
+ * WAP to convert an Octal into hex-decimal.
  */
 
 import java.util.Scanner;
